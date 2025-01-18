@@ -24,3 +24,14 @@ tmp
 
 # env file
 .env
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbs.db
+Thumbs.db
